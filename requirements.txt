@@ -1,0 +1,5 @@
+mrjob
+flask
+pandas
+requests
+boto3
