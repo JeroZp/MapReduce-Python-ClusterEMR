@@ -150,8 +150,7 @@ Puntos a cubrir:
 4. Demostración de resultados y API
 
 ## 👥 Autores
-- [Tu nombre]
-- [Compañero si aplica]
+- Jerónimo Pérez Baquero
 
 ## 📄 Licencia
 Proyecto académico - Universidad EAFIT
